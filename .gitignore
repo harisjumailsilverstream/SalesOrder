@@ -1,0 +1,21 @@
+# Ignore IDE-specific files
+.vs/
+.idea/
+.DS_Store
+
+# Ignore XAMPP and OS-specific files
+*.log
+*.tmp
+
+# Ignore Composer vendor directory
+/vendor/
+
+# Ignore Node.js modules
+/node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore build artifacts
+/bin/
+/obj/
